@@ -1,0 +1,9 @@
+{
+	"id": "py15tscOqFGXkL3",
+	"json": "{\"id\":\"py15tscOqFGXkL3\",\"url\":\"http://brotee.org\",\"uniqueKey\":\"http://brotee.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":3}},\"handledAt\":\"2023-07-30T05:31:38.556Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org",
+	"url": "http://brotee.org"
+}

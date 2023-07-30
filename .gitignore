@@ -1,0 +1,46 @@
+# Ignore node_modules directory (contains dependencies)
+node_modules/
+
+# Ignore any built or compiled files
+dist/
+build/
+out/
+*.js
+*.js.map
+
+# Ignore TypeScript build output
+*.tsbuildinfo
+
+# Ignore environment-specific files
+.env
+.env.*
+
+# Ignore any sensitive or private information
+secrets.json
+config.js
+
+# Ignore user-specific configuration files
+.vscode/
+.idea/
+npm-debug.log
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore package-lock.json (for npm projects) or yarn.lock (for yarn projects)
+package-lock.json
+yarn.lock
+
+# Ignore .env.local (for dotenv library to store local environment variables)
+.env.local
+
+# Ignore .env.production (for dotenv library to store production environment variables)
+.env.production
