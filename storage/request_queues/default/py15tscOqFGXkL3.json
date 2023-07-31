@@ -1,9 +1,9 @@
 {
 	"id": "py15tscOqFGXkL3",
-	"json": "{\"id\":\"py15tscOqFGXkL3\",\"url\":\"http://brotee.org\",\"uniqueKey\":\"http://brotee.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":3}},\"handledAt\":\"2023-07-30T05:31:38.556Z\"}",
+	"json": "{\"id\":\"py15tscOqFGXkL3\",\"url\":\"http://brotee.org\",\"loadedUrl\":\"http://brotee.org/\",\"uniqueKey\":\"http://brotee.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"ReferenceError: document is not defined\\n    at PuppeteerCrawler.requestHandler [as userProvidedRequestHandler] (file:///home/kim/Code/Crawlee/my-crawler/dist/main.js:24:30)\\n    at async wrap (/home/kim/Code/Crawlee/my-crawler/node_modules/@apify/timeout/index.js:52:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":5}}}",
 	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
+	"orderNo": 1690801116700,
+	"retryCount": 1,
 	"uniqueKey": "http://brotee.org",
 	"url": "http://brotee.org"
 }
