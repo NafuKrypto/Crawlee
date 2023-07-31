@@ -6,10 +6,10 @@ const crawler = new PuppeteerCrawler({
 		// Puppeteer does not have the automatic waiting functionality
 		// of Playwright, so we have to explicitly wait for the element.
 
-		await page.waitForSelector(".text-justify.text-black");
+		await page.waitForSelector(".xl:mt-12 mt-6");
 		// Puppeteer does not have helper methods like locator.textContent,
 		// so we have to manually extract the value using in-page JavaScript.
-		const actorText = await page.$eval(".text-justify.text-black", (el) => {
+		const actorText = await page.$eval(".xl:mt-12.mt-6", (el) => {
 			return el.textContent;
 		});
 		const c = actorText?.toString() || "";

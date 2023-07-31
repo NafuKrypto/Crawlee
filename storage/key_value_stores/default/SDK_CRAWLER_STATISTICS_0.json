@@ -1,0 +1,53 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 30370,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2023-07-31T11:03:40.650Z",
+  "crawlerFinishedAt": "2023-07-31T11:05:52.206Z",
+  "statsPersistedAt": "2023-07-31T11:05:52.206Z",
+  "crawlerRuntimeMillis": 131577,
+  "crawlerLastStartTimestamp": 1690801420629,
+  "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 30370,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 30370,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {
+    "200": 2,
+    "304": 2
+  },
+  "errors": {
+    "/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/src/common/WaitTask.ts:92:11": {
+      "missing error code": {
+        "TimeoutError": {
+          "Waiting for selector `.xl:mt-12 mt-6` failed: Waiting failed: 30000ms exceeded": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/src/common/WaitTask.ts:92:11": {
+      "missing error code": {
+        "TimeoutError": {
+          "Waiting for selector `.xl:mt-12 mt-6` failed: Waiting failed: 30000ms exceeded": {
+            "count": 3
+          }
+        }
+      }
+    }
+  }
+}

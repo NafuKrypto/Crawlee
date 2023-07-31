@@ -1,9 +1,9 @@
 {
 	"id": "py15tscOqFGXkL3",
-	"json": "{\"id\":\"py15tscOqFGXkL3\",\"url\":\"http://brotee.org\",\"loadedUrl\":\"http://brotee.org/\",\"uniqueKey\":\"http://brotee.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"ReferenceError: document is not defined\\n    at PuppeteerCrawler.requestHandler [as userProvidedRequestHandler] (file:///home/kim/Code/Crawlee/my-crawler/dist/main.js:24:30)\\n    at async wrap (/home/kim/Code/Crawlee/my-crawler/node_modules/@apify/timeout/index.js:52:21)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":5}}}",
+	"json": "{\"id\":\"py15tscOqFGXkL3\",\"url\":\"http://brotee.org\",\"loadedUrl\":\"http://brotee.org/\",\"uniqueKey\":\"http://brotee.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":3,\"errorMessages\":[\"TimeoutError: Waiting for selector `.xl:mt-12 mt-6` failed: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/src/common/WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\",\"TimeoutError: Waiting for selector `.xl:mt-12 mt-6` failed: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/src/common/WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\",\"TimeoutError: Waiting for selector `.xl:mt-12 mt-6` failed: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/src/common/WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\",\"TimeoutError: Waiting for selector `.xl:mt-12 mt-6` failed: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/src/common/WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":5}},\"handledAt\":\"2023-07-31T11:05:52.164Z\"}",
 	"method": "GET",
-	"orderNo": 1690801116700,
-	"retryCount": 1,
+	"orderNo": null,
+	"retryCount": 3,
 	"uniqueKey": "http://brotee.org",
 	"url": "http://brotee.org"
 }
