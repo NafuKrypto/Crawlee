@@ -3,17 +3,35 @@ import fs from "fs";
 import { saveData } from "./savingData";
 const crawler = new PuppeteerCrawler({
 	async requestHandler({ page }) {
-		// Puppeteer does not have the automatic waiting functionality
-		// of Playwright, so we have to explicitly wait for the element.
+		const selectors = [
+			".text-justify",
+			".mb-[6px].text-justify",
+			".text-xl",
+			".text-base",
+			".bg-white",
+			"px-4 lg:px-6 sm:basis-7/12 xl:basis-auto",
+			".flex.flex-col.lg:flex-col.px-2.lg:pr-[50px].lg:basis-8/12.xl:basis-9/12.text-center.lg:text-left.lg:justify-start.justify-center.items-center.lg:items-start",
+		];
 
-		await page.waitForSelector(".xl:mt-12 mt-6");
-		// Puppeteer does not have helper methods like locator.textContent,
-		// so we have to manually extract the value using in-page JavaScript.
-		const actorText = await page.$eval(".xl:mt-12.mt-6", (el) => {
-			return el.textContent;
+		// await page.waitForSelector(".text-justify");
+		selectors?.forEach((selector) => {
+			const elements = document.querySelectorAll(selector);
+		});
+		await page.waitForFunction(() => {
+			const elements = document.querySelectorAll(".text-justify");
+
+			return elements.length > 0;
+		});
+
+		// const actorText = await page.$eval(".text-justify", (el) => {
+		// 	console.log(el);
+		// 	return el.textContent;
+		// });
+		const actorText = await page.$$eval(".text-justify", (elements) => {
+			return Array.from(elements).map((element) => element.textContent);
 		});
 		const c = actorText?.toString() || "";
-		fs.writeFile("example.txt", c, (err) => {
+		fs.appendFile("example.txt", c, (err) => {
 			if (err) {
 				console.error("Error writing to file:", err);
 			} else {
@@ -25,13 +43,9 @@ const crawler = new PuppeteerCrawler({
 		const t = Array.from(document.querySelectorAll("div[.class]")).map(
 			(div: any) => div.class
 		);
-		console.log(t);
-		console.log(page);
-
-		// console.log(`LINKS: ${request.url}`);
-		// await enqueueLinks();
 	},
 });
+
 // const crawler = new BasicCrawler({
 // 	async requestHandler({ sendRequest, log }) {
 // 		const res: any = await sendRequest();
@@ -39,13 +53,3 @@ const crawler = new PuppeteerCrawler({
 // 	},
 // });
 await crawler.run(["http://brotee.org"]);
-async function main() {
-	// Call the saveData function
-	// await saveData();
-	// Other code in your main function, if needed
-}
-
-// Call the main function
-main().catch((error) => {
-	console.error("Error occurred:", error);
-});
