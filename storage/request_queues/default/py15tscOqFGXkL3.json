@@ -1,9 +1,9 @@
 {
 	"id": "py15tscOqFGXkL3",
-	"json": "{\"id\":\"py15tscOqFGXkL3\",\"url\":\"http://brotee.org\",\"loadedUrl\":\"http://brotee.org/\",\"uniqueKey\":\"http://brotee.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":3,\"errorMessages\":[\"ReferenceError: document is not defined\\n    at PuppeteerCrawler.requestHandler [as userProvidedRequestHandler] (file:///home/kim/Code/Crawlee/my-crawler/src/main.ts:30:24)\\n    at async wrap (/home/kim/Code/Crawlee/my-crawler/node_modules/@apify/src/index.ts:77:27)\",\"ReferenceError: document is not defined\\n    at PuppeteerCrawler.requestHandler [as userProvidedRequestHandler] (file:///home/kim/Code/Crawlee/my-crawler/src/main.ts:30:24)\\n    at async wrap (/home/kim/Code/Crawlee/my-crawler/node_modules/@apify/src/index.ts:77:27)\",\"ReferenceError: document is not defined\\n    at PuppeteerCrawler.requestHandler [as userProvidedRequestHandler] (file:///home/kim/Code/Crawlee/my-crawler/src/main.ts:30:24)\\n    at async wrap (/home/kim/Code/Crawlee/my-crawler/node_modules/@apify/src/index.ts:77:27)\",\"ReferenceError: document is not defined\\n    at PuppeteerCrawler.requestHandler [as userProvidedRequestHandler] (file:///home/kim/Code/Crawlee/my-crawler/src/main.ts:30:24)\\n    at async wrap (/home/kim/Code/Crawlee/my-crawler/node_modules/@apify/src/index.ts:77:27)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":5}},\"handledAt\":\"2023-08-01T09:29:09.816Z\"}",
+	"json": "{\"id\":\"py15tscOqFGXkL3\",\"url\":\"http://brotee.org\",\"loadedUrl\":\"http://brotee.org/\",\"uniqueKey\":\"http://brotee.org\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":2,\"errorMessages\":[\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:59:37)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\",\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:59:37)\\n    at listOnTimeout (node:internal/timers:559:17)\\n    at processTimers (node:internal/timers:502:7)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":5}}}",
 	"method": "GET",
-	"orderNo": null,
-	"retryCount": 3,
+	"orderNo": 1690970887419,
+	"retryCount": 2,
 	"uniqueKey": "http://brotee.org",
 	"url": "http://brotee.org"
 }
