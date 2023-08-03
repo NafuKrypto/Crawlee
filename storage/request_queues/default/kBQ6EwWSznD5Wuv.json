@@ -1,0 +1,9 @@
+{
+	"id": "kBQ6EwWSznD5Wuv",
+	"json": "{\"id\":\"kBQ6EwWSznD5Wuv\",\"url\":\"http://brotee.org/about/iub-at-a-glance\",\"loadedUrl\":\"http://brotee.org/about/iub-at-a-glance\",\"uniqueKey\":\"http://brotee.org/about/iub-at-a-glance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:34.495Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/about/iub-at-a-glance",
+	"url": "http://brotee.org/about/iub-at-a-glance"
+}

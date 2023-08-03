@@ -1,0 +1,9 @@
+{
+	"id": "MVnrMiddL2yIb4o",
+	"json": "{\"id\":\"MVnrMiddL2yIb4o\",\"url\":\"http://brotee.org/directory\",\"loadedUrl\":\"http://brotee.org/directory\",\"uniqueKey\":\"http://brotee.org/directory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:34.582Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/directory",
+	"url": "http://brotee.org/directory"
+}

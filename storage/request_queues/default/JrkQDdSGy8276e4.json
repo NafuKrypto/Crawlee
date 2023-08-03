@@ -1,0 +1,9 @@
+{
+	"id": "JrkQDdSGy8276e4",
+	"json": "{\"id\":\"JrkQDdSGy8276e4\",\"url\":\"http://brotee.org/about/facts-and-figures\",\"loadedUrl\":\"http://brotee.org/about/facts-and-figures\",\"uniqueKey\":\"http://brotee.org/about/facts-and-figures\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:34.934Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/about/facts-and-figures",
+	"url": "http://brotee.org/about/facts-and-figures"
+}

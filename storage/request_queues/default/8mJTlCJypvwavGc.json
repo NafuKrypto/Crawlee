@@ -1,0 +1,9 @@
+{
+	"id": "8mJTlCJypvwavGc",
+	"json": "{\"id\":\"8mJTlCJypvwavGc\",\"url\":\"http://brotee.org/admissions/international-students\",\"loadedUrl\":\"http://brotee.org/admissions/international-students\",\"uniqueKey\":\"http://brotee.org/admissions/international-students\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:37.236Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/admissions/international-students",
+	"url": "http://brotee.org/admissions/international-students"
+}

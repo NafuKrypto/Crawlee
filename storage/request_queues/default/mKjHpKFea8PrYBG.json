@@ -1,0 +1,9 @@
+{
+	"id": "mKjHpKFea8PrYBG",
+	"json": "{\"id\":\"mKjHpKFea8PrYBG\",\"url\":\"http://brotee.org/research-and-innovation/research-committees\",\"loadedUrl\":\"http://brotee.org/research-and-innovation/research-committees\",\"uniqueKey\":\"http://brotee.org/research-and-innovation/research-committees\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:38.826Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/research-and-innovation/research-committees",
+	"url": "http://brotee.org/research-and-innovation/research-committees"
+}

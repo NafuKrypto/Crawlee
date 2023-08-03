@@ -1,0 +1,9 @@
+{
+	"id": "ImiW0yeJglmvhrL",
+	"json": "{\"id\":\"ImiW0yeJglmvhrL\",\"url\":\"http://brotee.org/news-and-events/vendor-procurement\",\"loadedUrl\":\"http://brotee.org/news-and-events/vendor-procurement\",\"uniqueKey\":\"http://brotee.org/news-and-events/vendor-procurement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:44.923Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/news-and-events/vendor-procurement",
+	"url": "http://brotee.org/news-and-events/vendor-procurement"
+}

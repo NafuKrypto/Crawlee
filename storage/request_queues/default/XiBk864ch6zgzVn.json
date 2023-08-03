@@ -1,0 +1,9 @@
+{
+	"id": "XiBk864ch6zgzVn",
+	"json": "{\"id\":\"XiBk864ch6zgzVn\",\"url\":\"http://brotee.org/academics/schools\",\"loadedUrl\":\"http://brotee.org/academics/schools\",\"uniqueKey\":\"http://brotee.org/academics/schools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:35.965Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/academics/schools",
+	"url": "http://brotee.org/academics/schools"
+}

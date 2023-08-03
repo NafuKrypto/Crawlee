@@ -1,0 +1,9 @@
+{
+	"id": "hCMv0FSWbbCT3tp",
+	"json": "{\"id\":\"hCMv0FSWbbCT3tp\",\"url\":\"http://brotee.org/academics/departments\",\"loadedUrl\":\"http://brotee.org/academics/departments\",\"uniqueKey\":\"http://brotee.org/academics/departments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:36.182Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/academics/departments",
+	"url": "http://brotee.org/academics/departments"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "10FNS5EQYIn7ZT9",
+	"json": "{\"id\":\"10FNS5EQYIn7ZT9\",\"url\":\"http://brotee.org/google.com\",\"loadedUrl\":\"http://brotee.org/google.com\",\"uniqueKey\":\"http://brotee.org/google.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:34.196Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/google.com",
+	"url": "http://brotee.org/google.com"
+}

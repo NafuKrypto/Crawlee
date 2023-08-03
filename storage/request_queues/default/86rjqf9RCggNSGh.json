@@ -1,0 +1,9 @@
+{
+	"id": "86rjqf9RCggNSGh",
+	"json": "{\"id\":\"86rjqf9RCggNSGh\",\"url\":\"http://brotee.org/campus-life/google.com\",\"loadedUrl\":\"http://brotee.org/campus-life/google.com\",\"uniqueKey\":\"http://brotee.org/campus-life/google.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:46.324Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/campus-life/google.com",
+	"url": "http://brotee.org/campus-life/google.com"
+}

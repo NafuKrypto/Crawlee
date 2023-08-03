@@ -1,0 +1,9 @@
+{
+	"id": "EO6iqKv65NKI4OM",
+	"json": "{\"id\":\"EO6iqKv65NKI4OM\",\"url\":\"http://brotee.org/research-and-innovation/projects\",\"loadedUrl\":\"http://brotee.org/research-and-innovation/projects\",\"uniqueKey\":\"http://brotee.org/research-and-innovation/projects\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:39.241Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/research-and-innovation/projects",
+	"url": "http://brotee.org/research-and-innovation/projects"
+}

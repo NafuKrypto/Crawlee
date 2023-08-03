@@ -1,0 +1,9 @@
+{
+	"id": "ldBCHt4Vxj5fELe",
+	"json": "{\"id\":\"ldBCHt4Vxj5fELe\",\"url\":\"http://brotee.org/admissions/transfervisiting-students\",\"loadedUrl\":\"http://brotee.org/admissions/transfervisiting-students\",\"uniqueKey\":\"http://brotee.org/admissions/transfervisiting-students\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:37.708Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/admissions/transfervisiting-students",
+	"url": "http://brotee.org/admissions/transfervisiting-students"
+}

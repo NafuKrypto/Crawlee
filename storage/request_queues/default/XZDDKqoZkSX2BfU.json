@@ -1,0 +1,9 @@
+{
+	"id": "XZDDKqoZkSX2BfU",
+	"json": "{\"id\":\"XZDDKqoZkSX2BfU\",\"url\":\"http://brotee.org/campus-life/clubs-at-iub\",\"loadedUrl\":\"http://brotee.org/campus-life/clubs-at-iub\",\"uniqueKey\":\"http://brotee.org/campus-life/clubs-at-iub\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:41.880Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/campus-life/clubs-at-iub",
+	"url": "http://brotee.org/campus-life/clubs-at-iub"
+}

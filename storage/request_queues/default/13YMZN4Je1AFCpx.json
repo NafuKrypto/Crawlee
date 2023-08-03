@@ -1,0 +1,9 @@
+{
+	"id": "13YMZN4Je1AFCpx",
+	"json": "{\"id\":\"13YMZN4Je1AFCpx\",\"url\":\"http://brotee.org/campus-life/resources\",\"loadedUrl\":\"http://brotee.org/campus-life/resources\",\"uniqueKey\":\"http://brotee.org/campus-life/resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:42.171Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/campus-life/resources",
+	"url": "http://brotee.org/campus-life/resources"
+}

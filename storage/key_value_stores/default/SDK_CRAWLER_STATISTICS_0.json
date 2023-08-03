@@ -1,35 +1,49 @@
 {
-  "requestsFinished": 0,
-  "requestsFailed": 0,
-  "requestsRetries": 0,
-  "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 0,
-  "requestMinDurationMillis": null,
-  "requestMaxDurationMillis": 0,
-  "requestTotalFailedDurationMillis": 0,
-  "requestTotalFinishedDurationMillis": 0,
-  "crawlerStartedAt": "2023-08-02T10:06:58.207Z",
-  "crawlerFinishedAt": null,
-  "statsPersistedAt": "2023-08-02T10:07:58.204Z",
-  "crawlerRuntimeMillis": 60022,
-  "crawlerLastStartTimestamp": 1690970818182,
-  "requestRetryHistogram": [],
+  "requestsFinished": 46,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 2,
+  "requestsFinishedPerMinute": 99,
+  "requestMinDurationMillis": 295,
+  "requestMaxDurationMillis": 1397,
+  "requestTotalFailedDurationMillis": 284,
+  "requestTotalFinishedDurationMillis": 29865,
+  "crawlerStartedAt": "2023-08-03T08:49:33.023Z",
+  "crawlerFinishedAt": "2023-08-03T08:50:00.904Z",
+  "statsPersistedAt": "2023-08-03T08:50:00.904Z",
+  "crawlerRuntimeMillis": 27901,
+  "crawlerLastStartTimestamp": 1691052573003,
+  "requestRetryHistogram": [
+    46,
+    null,
+    null,
+    1
+  ],
   "statsId": 0,
-  "requestAvgFailedDurationMillis": null,
-  "requestAvgFinishedDurationMillis": null,
-  "requestTotalDurationMillis": 0,
-  "requestsTotal": 0,
+  "requestAvgFailedDurationMillis": 284,
+  "requestAvgFinishedDurationMillis": 649,
+  "requestTotalDurationMillis": 30149,
+  "requestsTotal": 47,
   "requestsWithStatusCode": {
-    "200": 1,
-    "304": 1
+    "200": 46
   },
-  "errors": {},
-  "retryErrors": {
-    "/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/lib/cjs/puppeteer/common/WaitTask.js:59:37": {
+  "errors": {
+    "<anonymous>": {
       "missing error code": {
-        "TimeoutError": {
-          "Waiting failed: 30000ms exceeded": {
+        "Error": {
+          "net::ERR_ABORTED at http://brotee.org/document/Invitation-%2019th%20BDC-IUB%20Pre-Worlds%202022.pdf": {
             "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "<anonymous>": {
+      "missing error code": {
+        "Error": {
+          "net::ERR_ABORTED at http://brotee.org/document/Invitation-%2019th%20BDC-IUB%20Pre-Worlds%202022.pdf": {
+            "count": 3
           }
         }
       }

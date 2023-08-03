@@ -1,0 +1,9 @@
+{
+	"id": "F8D1dOAysJQKHME",
+	"json": "{\"id\":\"F8D1dOAysJQKHME\",\"url\":\"http://brotee.org/campus-life/facilities\",\"loadedUrl\":\"http://brotee.org/campus-life/facilities\",\"uniqueKey\":\"http://brotee.org/campus-life/facilities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:40.363Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/campus-life/facilities",
+	"url": "http://brotee.org/campus-life/facilities"
+}

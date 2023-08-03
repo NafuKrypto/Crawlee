@@ -1,0 +1,9 @@
+{
+	"id": "CdP5SVxmb2Pjt81",
+	"json": "{\"id\":\"CdP5SVxmb2Pjt81\",\"url\":\"http://brotee.org/research-and-innovation/publications\",\"loadedUrl\":\"http://brotee.org/research-and-innovation/publications\",\"uniqueKey\":\"http://brotee.org/research-and-innovation/publications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:39.394Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/research-and-innovation/publications",
+	"url": "http://brotee.org/research-and-innovation/publications"
+}

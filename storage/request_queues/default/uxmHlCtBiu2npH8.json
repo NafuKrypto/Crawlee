@@ -1,0 +1,9 @@
+{
+	"id": "uxmHlCtBiu2npH8",
+	"json": "{\"id\":\"uxmHlCtBiu2npH8\",\"url\":\"http://brotee.org/news-and-events/google.com\",\"loadedUrl\":\"http://brotee.org/news-and-events/google.com\",\"uniqueKey\":\"http://brotee.org/news-and-events/google.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:46.520Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://brotee.org/news-and-events/google.com",
+	"url": "http://brotee.org/news-and-events/google.com"
+}
