@@ -1,6 +1,6 @@
 {
 	"id": "sWwEiIPVMleYYSA",
-	"json": "{\"id\":\"sWwEiIPVMleYYSA\",\"url\":\"http://brotee.org/admissions/financial-aids-and-awards\",\"loadedUrl\":\"http://brotee.org/admissions/financial-aids-and-awards\",\"uniqueKey\":\"http://brotee.org/admissions/financial-aids-and-awards\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:37.542Z\"}",
+	"json": "{\"id\":\"sWwEiIPVMleYYSA\",\"url\":\"http://brotee.org/admissions/financial-aids-and-awards\",\"loadedUrl\":\"http://brotee.org/admissions/financial-aids-and-awards\",\"uniqueKey\":\"http://brotee.org/admissions/financial-aids-and-awards\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:34:13.298Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

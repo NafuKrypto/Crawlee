@@ -1,6 +1,6 @@
 {
 	"id": "DPeswWoZTbPIrTo",
-	"json": "{\"id\":\"DPeswWoZTbPIrTo\",\"url\":\"http://brotee.org/campus-life/live-in-field-experience\",\"loadedUrl\":\"http://brotee.org/campus-life/live-in-field-experience\",\"uniqueKey\":\"http://brotee.org/campus-life/live-in-field-experience\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:41.365Z\"}",
+	"json": "{\"id\":\"DPeswWoZTbPIrTo\",\"url\":\"http://brotee.org/campus-life/live-in-field-experience\",\"loadedUrl\":\"http://brotee.org/campus-life/live-in-field-experience\",\"uniqueKey\":\"http://brotee.org/campus-life/live-in-field-experience\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:34:24.376Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

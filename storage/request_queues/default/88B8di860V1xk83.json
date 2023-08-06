@@ -1,6 +1,6 @@
 {
 	"id": "88B8di860V1xk83",
-	"json": "{\"id\":\"88B8di860V1xk83\",\"url\":\"http://brotee.org/news-and-events/notices-and-announcements\",\"loadedUrl\":\"http://brotee.org/news-and-events/notices-and-announcements\",\"uniqueKey\":\"http://brotee.org/news-and-events/notices-and-announcements\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:43.367Z\"}",
+	"json": "{\"id\":\"88B8di860V1xk83\",\"url\":\"http://brotee.org/news-and-events/notices-and-announcements\",\"loadedUrl\":\"http://brotee.org/news-and-events/notices-and-announcements\",\"uniqueKey\":\"http://brotee.org/news-and-events/notices-and-announcements\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:34:34.883Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

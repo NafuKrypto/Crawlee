@@ -1,9 +1,0 @@
-{
-	"id": "7h02ZH4axkz5k9v",
-	"json": "{\"id\":\"7h02ZH4axkz5k9v\",\"url\":\"http://brotee.org/academics/google.com\",\"loadedUrl\":\"http://brotee.org/academics/google.com\",\"uniqueKey\":\"http://brotee.org/academics/google.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:45.437Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "http://brotee.org/academics/google.com",
-	"url": "http://brotee.org/academics/google.com"
-}

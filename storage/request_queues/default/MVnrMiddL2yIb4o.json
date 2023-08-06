@@ -1,9 +1,9 @@
 {
 	"id": "MVnrMiddL2yIb4o",
-	"json": "{\"id\":\"MVnrMiddL2yIb4o\",\"url\":\"http://brotee.org/directory\",\"loadedUrl\":\"http://brotee.org/directory\",\"uniqueKey\":\"http://brotee.org/directory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:34.582Z\"}",
+	"json": "{\"id\":\"MVnrMiddL2yIb4o\",\"url\":\"http://brotee.org/directory\",\"loadedUrl\":\"http://brotee.org/directory\",\"uniqueKey\":\"http://brotee.org/directory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":3,\"errorMessages\":[\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (D:\\\\Work\\\\Crawlee\\\\Crawlee\\\\node_modules\\\\puppeteer-core\\\\src\\\\common\\\\WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:569:17)\\n    at processTimers (node:internal/timers:512:7)\",\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (D:\\\\Work\\\\Crawlee\\\\Crawlee\\\\node_modules\\\\puppeteer-core\\\\src\\\\common\\\\WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:569:17)\\n    at processTimers (node:internal/timers:512:7)\",\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (D:\\\\Work\\\\Crawlee\\\\Crawlee\\\\node_modules\\\\puppeteer-core\\\\src\\\\common\\\\WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:569:17)\\n    at processTimers (node:internal/timers:512:7)\",\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (D:\\\\Work\\\\Crawlee\\\\Crawlee\\\\node_modules\\\\puppeteer-core\\\\src\\\\common\\\\WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:569:17)\\n    at processTimers (node:internal/timers:512:7)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":5}},\"handledAt\":\"2023-08-05T21:39:32.854Z\"}",
 	"method": "GET",
 	"orderNo": null,
-	"retryCount": 0,
+	"retryCount": 3,
 	"uniqueKey": "http://brotee.org/directory",
 	"url": "http://brotee.org/directory"
 }

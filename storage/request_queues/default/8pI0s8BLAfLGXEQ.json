@@ -1,6 +1,6 @@
 {
 	"id": "8pI0s8BLAfLGXEQ",
-	"json": "{\"id\":\"8pI0s8BLAfLGXEQ\",\"url\":\"http://brotee.org/admissions/tuition-and-fees\",\"loadedUrl\":\"http://brotee.org/admissions/tuition-and-fees\",\"uniqueKey\":\"http://brotee.org/admissions/tuition-and-fees\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:38.059Z\"}",
+	"json": "{\"id\":\"8pI0s8BLAfLGXEQ\",\"url\":\"http://brotee.org/admissions/tuition-and-fees\",\"loadedUrl\":\"http://brotee.org/admissions/tuition-and-fees\",\"uniqueKey\":\"http://brotee.org/admissions/tuition-and-fees\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:34:13.697Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

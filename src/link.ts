@@ -30,15 +30,15 @@ const crawler = new PuppeteerCrawler({
 		log.info(`Processing ${request.url}...`);
 
 		// A function to be evaluated by Puppeteer within the browser context.
-		const data = await page.$$eval("div", ($posts) => {
+		const data = await page.$$eval(".text-justify", ($posts) => {
 			const scrapedData: { title: string; href: string }[] = [];
 
 			// We're getting the title, rank and URL of each post on Hacker News.
 			$posts.forEach(($post: any) => {
 				scrapedData.push({
-					title: $post?.querySelector("div")?.textContent,
+					title: $post?.querySelector(".text-justify")?.textContent,
 
-					href: $post?.querySelector("div")?.href,
+					href: $post?.querySelector(".text-justify")?.href,
 				});
 			});
 
@@ -54,7 +54,7 @@ const crawler = new PuppeteerCrawler({
 		await fs.appendFile("example.txt", c + "\n");
 
 		const infos = await enqueueLinks({
-			strategy: EnqueueStrategy.SameDomain,
+			// strategy: EnqueueStrategy.SameDomain,
 			// selector: ".overflow-hidden",
 		});
 		await Dataset.pushData(data);
@@ -82,7 +82,7 @@ const crawler = new PuppeteerCrawler({
 	},
 });
 
-await crawler.addRequests(["http://brotee.org/"]);
+await crawler.addRequests(["http://brotee.org"]);
 
 // Run the crawler and wait for it to finish.
 await crawler.run();

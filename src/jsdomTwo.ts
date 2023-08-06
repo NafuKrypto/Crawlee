@@ -35,7 +35,7 @@ const crawler = new JSDOMCrawler({
 		// Extract data from the page
 		const title = window.document.title;
 		const h1texts: { text: string }[] = [];
-		window.document.querySelectorAll("div").forEach((element) => {
+		window.document.querySelectorAll("a").forEach((element) => {
 			h1texts.push({
 				text: element.textContent!,
 			});

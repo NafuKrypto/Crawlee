@@ -1,6 +1,6 @@
 {
 	"id": "UFzwf3Fl0RxOYzs",
-	"json": "{\"id\":\"UFzwf3Fl0RxOYzs\",\"url\":\"http://brotee.org/about/special-initiatives\",\"loadedUrl\":\"http://brotee.org/about/special-initiatives\",\"uniqueKey\":\"http://brotee.org/about/special-initiatives\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:34.888Z\"}",
+	"json": "{\"id\":\"UFzwf3Fl0RxOYzs\",\"url\":\"http://brotee.org/about/special-initiatives\",\"loadedUrl\":\"http://brotee.org/about/special-initiatives\",\"uniqueKey\":\"http://brotee.org/about/special-initiatives\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:33:33.585Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

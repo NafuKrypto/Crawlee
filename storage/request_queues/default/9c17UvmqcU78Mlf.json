@@ -1,6 +1,6 @@
 {
 	"id": "9c17UvmqcU78Mlf",
-	"json": "{\"id\":\"9c17UvmqcU78Mlf\",\"url\":\"http://brotee.org/campus-life/career-guidance-and-placement\",\"loadedUrl\":\"http://brotee.org/campus-life/career-guidance-and-placement\",\"uniqueKey\":\"http://brotee.org/campus-life/career-guidance-and-placement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:40.870Z\"}",
+	"json": "{\"id\":\"9c17UvmqcU78Mlf\",\"url\":\"http://brotee.org/campus-life/career-guidance-and-placement\",\"loadedUrl\":\"http://brotee.org/campus-life/career-guidance-and-placement\",\"uniqueKey\":\"http://brotee.org/campus-life/career-guidance-and-placement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:34:23.545Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

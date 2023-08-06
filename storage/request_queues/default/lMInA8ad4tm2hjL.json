@@ -1,6 +1,6 @@
 {
 	"id": "lMInA8ad4tm2hjL",
-	"json": "{\"id\":\"lMInA8ad4tm2hjL\",\"url\":\"http://brotee.org/campus-life/alumni-relations\",\"loadedUrl\":\"http://brotee.org/campus-life/alumni-relations\",\"uniqueKey\":\"http://brotee.org/campus-life/alumni-relations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:41.166Z\"}",
+	"json": "{\"id\":\"lMInA8ad4tm2hjL\",\"url\":\"http://brotee.org/campus-life/alumni-relations\",\"loadedUrl\":\"http://brotee.org/campus-life/alumni-relations\",\"uniqueKey\":\"http://brotee.org/campus-life/alumni-relations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:34:23.966Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

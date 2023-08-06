@@ -1,6 +1,6 @@
 {
 	"id": "CdP5SVxmb2Pjt81",
-	"json": "{\"id\":\"CdP5SVxmb2Pjt81\",\"url\":\"http://brotee.org/research-and-innovation/publications\",\"loadedUrl\":\"http://brotee.org/research-and-innovation/publications\",\"uniqueKey\":\"http://brotee.org/research-and-innovation/publications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:39.394Z\"}",
+	"json": "{\"id\":\"CdP5SVxmb2Pjt81\",\"url\":\"http://brotee.org/research-and-innovation/publications\",\"loadedUrl\":\"http://brotee.org/research-and-innovation/publications\",\"uniqueKey\":\"http://brotee.org/research-and-innovation/publications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:34:20.044Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

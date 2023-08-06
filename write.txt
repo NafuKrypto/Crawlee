@@ -17,8 +17,8 @@ Title of http://brotee.org/news-and-events/notices-and-announcements: Independen
 Title of http://brotee.org/news-and-events/news-and-media: Independent University of Bangladesh
 Title of http://brotee.org/news-and-events/events: Independent University of Bangladesh
 Title of http://brotee.org/news-and-events/jobs-at-iub: Independent University of Bangladesh
+Title of http://brotee.org/academics/schools/school-of-business-and-entrepreneurship: Independent University of Bangladesh
+Title of http://brotee.org/academics/schools/school-of-engineering-technology-and-sciences: Independent University of Bangladesh
 Title of http://brotee.org/academics/schools/school-of-environment-and-life-sciences: Independent University of Bangladesh
 Title of http://brotee.org/academics/schools/school-of-liberal-arts-and-social: Independent University of Bangladesh
 Title of http://brotee.org/academics/schools/school-of-pharmacy-and-public-health: Independent University of Bangladesh
-Title of http://brotee.org/academics/schools/school-of-engineering-technology-and-sciences: Independent University of Bangladesh
-Title of http://brotee.org/academics/schools/school-of-business-and-entrepreneurship: Independent University of Bangladesh

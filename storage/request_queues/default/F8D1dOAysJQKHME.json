@@ -1,6 +1,6 @@
 {
 	"id": "F8D1dOAysJQKHME",
-	"json": "{\"id\":\"F8D1dOAysJQKHME\",\"url\":\"http://brotee.org/campus-life/facilities\",\"loadedUrl\":\"http://brotee.org/campus-life/facilities\",\"uniqueKey\":\"http://brotee.org/campus-life/facilities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-03T08:49:40.363Z\"}",
+	"json": "{\"id\":\"F8D1dOAysJQKHME\",\"url\":\"http://brotee.org/campus-life/facilities\",\"loadedUrl\":\"http://brotee.org/campus-life/facilities\",\"uniqueKey\":\"http://brotee.org/campus-life/facilities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:34:22.962Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,
