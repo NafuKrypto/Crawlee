@@ -1,9 +1,9 @@
 {
 	"id": "0gpX1zanDdgh81b",
-	"json": "{\"id\":\"0gpX1zanDdgh81b\",\"url\":\"http://brotee.org/about/admission.iub.edu.bd\",\"loadedUrl\":\"http://brotee.org/about/admission.iub.edu.bd\",\"uniqueKey\":\"http://brotee.org/about/admission.iub.edu.bd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":3,\"errorMessages\":[\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (D:\\\\Work\\\\Crawlee\\\\Crawlee\\\\node_modules\\\\puppeteer-core\\\\src\\\\common\\\\WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:569:17)\\n    at processTimers (node:internal/timers:512:7)\",\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (D:\\\\Work\\\\Crawlee\\\\Crawlee\\\\node_modules\\\\puppeteer-core\\\\src\\\\common\\\\WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:569:17)\\n    at processTimers (node:internal/timers:512:7)\",\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (D:\\\\Work\\\\Crawlee\\\\Crawlee\\\\node_modules\\\\puppeteer-core\\\\src\\\\common\\\\WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:569:17)\\n    at processTimers (node:internal/timers:512:7)\",\"TimeoutError: Waiting failed: 30000ms exceeded\\n    at Timeout.<anonymous> (D:\\\\Work\\\\Crawlee\\\\Crawlee\\\\node_modules\\\\puppeteer-core\\\\src\\\\common\\\\WaitTask.ts:92:11)\\n    at listOnTimeout (node:internal/timers:569:17)\\n    at processTimers (node:internal/timers:512:7)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":5}},\"handledAt\":\"2023-08-05T21:41:24.061Z\"}",
+	"json": "{\"id\":\"0gpX1zanDdgh81b\",\"url\":\"http://brotee.org/about/admission.iub.edu.bd\",\"uniqueKey\":\"http://brotee.org/about/admission.iub.edu.bd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
 	"method": "GET",
-	"orderNo": null,
-	"retryCount": 3,
+	"orderNo": 1691318327609,
+	"retryCount": 0,
 	"uniqueKey": "http://brotee.org/about/admission.iub.edu.bd",
 	"url": "http://brotee.org/about/admission.iub.edu.bd"
 }

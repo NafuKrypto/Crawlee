@@ -1,67 +1,36 @@
 {
-  "requestsFinished": 24,
-  "requestsFailed": 31,
-  "requestsRetries": 31,
-  "requestsFailedPerMinute": 3,
-  "requestsFinishedPerMinute": 3,
-  "requestMinDurationMillis": 165,
-  "requestMaxDurationMillis": 3777,
-  "requestTotalFailedDurationMillis": 854651,
-  "requestTotalFinishedDurationMillis": 19059,
-  "crawlerStartedAt": "2023-08-05T21:33:12.048Z",
-  "crawlerFinishedAt": "2023-08-05T21:42:13.604Z",
-  "statsPersistedAt": "2023-08-05T21:42:13.604Z",
-  "crawlerRuntimeMillis": 541600,
-  "crawlerLastStartTimestamp": 1691271192004,
+  "requestsFinished": 10,
+  "requestsFailed": 0,
+  "requestsRetries": 0,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 2,
+  "requestMinDurationMillis": 5547,
+  "requestMaxDurationMillis": 27654,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 156680,
+  "crawlerStartedAt": "2023-08-06T10:37:10.326Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2023-08-06T10:43:18.594Z",
+  "crawlerRuntimeMillis": 368343,
+  "crawlerLastStartTimestamp": 1691318230251,
   "requestRetryHistogram": [
-    24,
-    null,
-    null,
-    31
+    10
   ],
   "statsId": 0,
-  "requestAvgFailedDurationMillis": 27569,
-  "requestAvgFinishedDurationMillis": 794,
-  "requestTotalDurationMillis": 873710,
-  "requestsTotal": 55,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 15668,
+  "requestTotalDurationMillis": 156680,
+  "requestsTotal": 10,
   "requestsWithStatusCode": {
-    "200": 136
+    "200": 26
   },
-  "errors": {
-    "D:\\Work\\Crawlee\\Crawlee\\node_modules\\puppeteer-core\\src\\common\\WaitTask.ts:92:11": {
-      "missing error code": {
-        "TimeoutError": {
-          "Waiting failed: 30000ms exceeded": {
-            "count": 28
-          }
-        }
-      }
-    },
-    "D:\\Work\\Crawlee\\Crawlee\\node_modules\\puppeteer-core\\src\\common\\Frame.ts:161:13": {
-      "missing error code": {
-        "Error": {
-          "net::ERR_ABORTED at _": {
-            "count": 3
-          }
-        }
-      }
-    }
-  },
+  "errors": {},
   "retryErrors": {
-    "D:\\Work\\Crawlee\\Crawlee\\node_modules\\puppeteer-core\\src\\common\\WaitTask.ts:92:11": {
+    "/home/kim/Code/Crawlee/my-crawler/node_modules/puppeteer-core/src/common/WaitTask.ts:92:11": {
       "missing error code": {
         "TimeoutError": {
           "Waiting failed: 30000ms exceeded": {
-            "count": 84
-          }
-        }
-      }
-    },
-    "D:\\Work\\Crawlee\\Crawlee\\node_modules\\puppeteer-core\\src\\common\\Frame.ts:161:13": {
-      "missing error code": {
-        "Error": {
-          "net::ERR_ABORTED at _": {
-            "count": 9
+            "count": 14
           }
         }
       }

@@ -1,6 +1,6 @@
 {
 	"id": "JrkQDdSGy8276e4",
-	"json": "{\"id\":\"JrkQDdSGy8276e4\",\"url\":\"http://brotee.org/about/facts-and-figures\",\"loadedUrl\":\"http://brotee.org/about/facts-and-figures\",\"uniqueKey\":\"http://brotee.org/about/facts-and-figures\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-08-05T21:33:33.188Z\"}",
+	"json": "{\"id\":\"JrkQDdSGy8276e4\",\"url\":\"http://brotee.org/about/facts-and-figures\",\"loadedUrl\":\"http://brotee.org/about/facts-and-figures\",\"uniqueKey\":\"http://brotee.org/about/facts-and-figures\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-08-06T10:38:47.611Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,
